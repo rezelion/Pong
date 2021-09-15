@@ -130,8 +130,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 91f81deb9a9782640987b9c3885e4726, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  xInitialForce: 25
-  yInitialForce: 25
+  xInitialForce: 50
+  yInitialForce: 15
 --- !u!1001 &144430625
 PrefabInstance:
   m_ObjectHideFlags: 0
