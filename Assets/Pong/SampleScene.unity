@@ -870,6 +870,16 @@ PrefabInstance:
       propertyPath: m_Material
       value: 
       objectReference: {fileID: 6200000, guid: 80ff8211aa4852d4788e5b4c46cdff9c, type: 2}
+    - target: {fileID: 2837559946010123028, guid: 8981827b997e7b24fbf417804d942f6c,
+        type: 3}
+      propertyPath: m_IsTrigger
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2837559946010123028, guid: 8981827b997e7b24fbf417804d942f6c,
+        type: 3}
+      propertyPath: m_Material
+      value: 
+      objectReference: {fileID: 6200000, guid: 80ff8211aa4852d4788e5b4c46cdff9c, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8981827b997e7b24fbf417804d942f6c, type: 3}
 --- !u!1001 &3893291247627946989

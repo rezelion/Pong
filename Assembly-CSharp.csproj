@@ -64,13 +64,13 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\BallControl.cs" />
-    <Compile Include="Assets\GameManager.cs" />
     <Compile Include="Assets\KunalTandon\DottedLine\Scripts\DottedLine.cs" />
     <Compile Include="Assets\KunalTandon\DottedLine\Scripts\DottedLineDemo.cs" />
-    <Compile Include="Assets\PlayerControl.cs" />
-    <Compile Include="Assets\SideWall.cs" />
-    <Compile Include="Assets\Trajectory.cs" />
+    <Compile Include="Assets\Script\BallControl.cs" />
+    <Compile Include="Assets\Script\GameManager.cs" />
+    <Compile Include="Assets\Script\PlayerControl.cs" />
+    <Compile Include="Assets\Script\SideWall.cs" />
+    <Compile Include="Assets\Script\Trajectory.cs" />
     <Reference Include="Unity.TextMeshPro.Editor">
       <HintPath>D:/projek/Latihan Unity/Pong2D/Pong/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
